@@ -1,5 +1,7 @@
 #!/usr/bin/perl
-
+#
+# Copyright (c) GB Tony Cabrera (firehammer047) 2015
+#
 use DBI();
 use MP3::Info;
 use strict;

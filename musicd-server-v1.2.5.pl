@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 #
 # musicd-server.pl
-# Copyright GB Tony Cabrera (firehammer047) 2015
+# Copyright (c) GB Tony Cabrera (firehammer047) 2015
 #
 # Changelog
 #
